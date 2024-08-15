@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unknown-property */
+import { useState } from "react";
 import { Guitar } from "./components/Guitar";
 import { Header } from "./components/Header";
 
